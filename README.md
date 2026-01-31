@@ -13,10 +13,12 @@ This project transforms raw customer data into a clear, interactive business int
 * Understand overall churn performance
 * Identify high-risk customer segments
 * Analyze factors influencing customer churn
-* Measure financial impact of churn
+* Measure the financial impact of churn
 * Provide clear, business-focused recommendations
+
 ---
-An interactive Power BI dashboard can be downloaded [Here](/Power%20BI/Telco%20Customer%20Churn%20Analysis.pbix)
+
+An interactive Power BI dashboard can be downloaded [Here](https://github.com/rishikesavan-data/Telco-Customer-Churn-Analysis/raw/main/Power%20BI/Telco%20Customer%20Churn%20Analysis.pbix)
 
 *SQL queries used for data exploration, cleaning, and business analysis are available inside the repository.*
 
@@ -42,7 +44,7 @@ The dashboard includes button-based navigation built using Power BI bookmarks, a
 
 ### Churn Drivers Dashboard
 ![alt text](/Images/Drivers%20Page.png)
-* **Drivers Page** - Shows root causes of churn including service usage, payment behavior, and customer value risk.
+* **Drivers Page** - Shows root causes of churn, including service usage, payment behavior, and customer value risk.
 
 
 
@@ -52,7 +54,7 @@ The dashboard includes button-based navigation built using Power BI bookmarks, a
 * Customers with month-to-month contracts are more likely to churn compared to long-term contract customers
 * Customers using manual payment methods (like electronic checks) show higher churn rates
 * Lower value customers churn more often, but higher value customers cause larger revenue loss when they churn
-* Customers in early stages of their subscription are more likely to leave
+* Customers in the early stages of their subscription are more likely to leave
 * Customers using multiple services are more likely to stay longer
 
 ## 📈 Business Insights
@@ -75,7 +77,7 @@ The dashboard includes button-based navigation built using Power BI bookmarks, a
 
 * New customers are more likely to churn
 * Customers become more stable as their tenure increases
-* Customers who stay beyond early months are more likely to remain long-term
+* Customers who stay beyond the early months are more likely to remain long-term
 * Strong onboarding and early engagement help reduce churn
 
 ### ⚠️ Service Usage Insights
@@ -109,7 +111,7 @@ The dashboard includes button-based navigation built using Power BI bookmarks, a
 * Focus retention strategies on month-to-month contract customers
 * Encourage customers to switch to automatic payment methods
 * Prioritize retention programs for high-value customers
-* Improve early customer onboarding experience
+* Improve the early customer onboarding experience
 * Promote bundled services to increase customer engagement
 
-This solution helps business teams proactively identify churn risk segments and prioritize customer retention strategies based on financial impact.
+This solution helps business teams proactively identify churn-risk segments and prioritize customer-retention strategies based on financial impact.
