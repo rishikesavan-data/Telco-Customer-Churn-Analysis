@@ -20,7 +20,7 @@ This project transforms raw customer data into a clear, interactive business int
 * Measure the financial impact of churn **(~3M revenue lost + 225K revenue at risk)**
 * Provide clear, business-focused recommendations
 ---
-An interactive Power BI dashboard can be downloaded [Here](/Power%20BI/Telco%20Customer%20Churn%20Analysis.pbix)
+An interactive Power BI dashboard can be downloaded [Here](https://github.com/rishikesavan-data/Telco-Customer-Churn-Analysis/raw/main/Power%20BI/Telco%20Customer%20Churn%20Analysis.pbix)
 
 *SQL queries used for data exploration, cleaning, and business analysis are available inside the repository.*
 
