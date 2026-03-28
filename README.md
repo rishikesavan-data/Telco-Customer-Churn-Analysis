@@ -92,10 +92,9 @@ The dashboard includes button-based navigation built using Power BI bookmarks, a
 ## 🛠 Tools & Technology
 
 * **SQL** – Data cleaning and analysis
-* **Power BI** – Logical data modeling, DAX measures, KPI design, dashboard development
+* **Power BI** – Star schema data modeling, DAX measures, KPI design, dashboard development
 * **Power Query** – Data transformation
 * **Excel** – Data preprocessing
-* **AI Tools (ChatGPT, Gemini)** – Debugging and documentation support
 
 ## 📊 Key Metrics Tracked
 
